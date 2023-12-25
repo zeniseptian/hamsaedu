@@ -23,5 +23,26 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 16px 128px;
+}
+
+#header h1 {
+    margin: 0px;
+}
+
+#logoheader {
+    display: flex;
+    width: 51px;
+    height: 50px;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+#logofooter {
+    display: flex;
+    width: 77px;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
 }
