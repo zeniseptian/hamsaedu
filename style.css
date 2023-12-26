@@ -5,6 +5,7 @@
 h1 {
     font-weight: 700;
     font-size: 24px;
+    margin: 0 0 16px 0;
 }
 
 a {
@@ -24,6 +25,7 @@ a {
     justify-content: space-between;
     align-items: center;
     padding: 16px 128px;
+
 }
 
 #header h1 {
